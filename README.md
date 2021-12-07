@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rplesemkamussi
 - 👀 Repository dari RPL SMK Muhammadiyah Kesesi
 - 🌱 PHP, HTML, CSS, JS
-- 💞️ Rekayasa Perangkat Lunak
-- 📫 rpl.esemkamussi@gmail.com
+- 💞️ rpl.esemkamussi@gmail.com
+- 📫 https://smkmussi.sch.id
 
 <!---
 rplesemkamussi/rplesemkamussi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
